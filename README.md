@@ -1,58 +1,76 @@
-# Hi there, I'm Saurav 👋
+# Hi there, I'm Saurav 👋  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Open+Source+Enthusiast;Full+Stack+Developer;JavaScript+%26+TypeScript+Lover;Building+Amazing+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;SaaS+%26+DevOps+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## 🚀 About Me  
 
-I'm a passionate **Open Source Enthusiast** who loves building and contributing to impactful projects. I believe in the power of collaboration and community-driven development to create amazing software that makes a difference.
+I'm a **self-driven Full-Stack Developer** with strong foundations in **React, Next.js, Node.js, SQL, and DevOps**.  
+I enjoy building **scalable SaaS platforms**, contributing to **open source**, and experimenting with **DevOps automation** to deliver production-grade solutions.  
 
-- 🔭 Currently contributing to **Open Source** with **3 active PRs** and **1 merged PR** in [Formbricks](https://github.com/formbricks/formbricks)
-- 💼 Recently completed a **freelance project** building a custom e-commerce website for an import-export startup
-- 🌱 Always learning new technologies and improving my skills
-- 🤝 Open to collaborations and connecting with fellow developers
-- 💬 Ask me about **JavaScript, TypeScript, React, or Open Source**
+- 🔭 Currently building **[StackVault](https://www.stackvault.dev)** – a full-stack SaaS portfolio builder with **multi-tenant architecture** and **dynamic subdomains**  
+- 🤝 Actively contributing to **[Formbricks](https://github.com/formbricks/formbricks)** – adding tests, fixing bugs, and shipping features  
+- 🌱 Exploring **Kubernetes**, **security & automation (OpSec, Puppeteer, bot scaling)**  
+- 💬 Ask me about **React, Next.js, Node.js, Testing, or DevOps pipelines**  
+- 🎯 Looking for **remote internship opportunities** where I can apply problem-solving and system design skills  
 
-## 🛠️ Tech Stack
+---
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+## 🛠️ Tech Stack  
+
+<div align="center">
+
+### Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+### Backend  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D92B1F?style=for-the-badge&logo=redis&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### Database  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+
+### DevOps & Testing  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
-## 🎯 Current Focus
+</div>
 
-- **🔥 Open Source Contributions**: Actively contributing to [Formbricks](https://github.com/formbricks/formbricks) with multiple PRs
-- **🚀 Building**: Working on exciting projects using modern web technologies
-- **📚 Learning**: Exploring advanced cloud architecture and DevOps practices
-- **🤝 Collaborating**: Always open to interesting projects and partnerships
 
-## 💼 Experience Highlights
+---
 
-### Freelance Full Stack Developer
-**Custom E-commerce Platform** | *1 Month Project*
-- Built a complete e-commerce solution for an import-export startup
-- Implemented **custom authentication system** from scratch
-- Utilized modern web technologies for optimal performance
-- Successfully delivered within timeline and budget
+## 💼 Experience & Projects  
 
-## 📊 GitHub Stats
+### 🚀 StackVault – SaaS Portfolio Builder *(July 2025 – Present)*  
+- Architected and launched a SaaS platform with **multi-tenant dynamic subdomain routing**  
+- Built **CI/CD pipelines with GitHub Actions** (linting, testing, build automation)  
+- Integrated **Playwright end-to-end tests** into CI for production safety  
+- Enforced **end-to-end type safety** with Zod on all APIs and forms  
+
+### 🌍 Formbricks (Open Source) *(2025 – Present)*  
+- Added **Vitest unit tests** in the `types` folder to improve reliability  
+- Fixed **text formatting bug** that improved UI consistency for thousands of users  
+- Collaborated via **Git, PR reviews, and issue tracking** in a professional OSS workflow  
+
+### 💼 Freelance Web Application *(Feb 2025 – May 2025)*  
+- Built a **Next.js + Tailwind + MongoDB** web app for a client  
+- Designed reusable **UI component library** and **secure token-based auth**  
+- Containerized with **Docker**, reducing deployment friction  
+
+---
+
+## 📊 GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saurabhjain708&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
@@ -66,46 +84,32 @@ I'm a passionate **Open Source Enthusiast** who loves building and contributing 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhjain708&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
+---
+
+## 🏆 GitHub Trophies  
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saurabhjain708&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 😄 Fun Fact & Meme
+---
 
-> **Fun Fact**: I debug code faster when listening to lo-fi beats! 🎵
-
-> **Developer Truth**: 
-
-
-*"Why do programmers prefer dark mode? Because light attracts bugs!"* 🐛✨
-
-## 📈 Activity Graph
+## 📈 Activity Graph  
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhjain708&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🤝 Let's Connect!
+---
 
-I'm always excited to connect with fellow developers, open source enthusiasts, and anyone interested in building amazing software together!
+## 🤝 Let's Connect!  
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-jain-226295320)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_Saurav_Jain_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sauravjain.dev@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sauravjain.dev)
-
+<div align="center">  
+<a href="https://linkedin.com/in/saurabh-jain-226295320"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<a href="https://x.com/_Saurav_Jain_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  
+<a href="mailto:sauravjain.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+<a href="https://www.stackvault.dev"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>  
 </div>
-
-## 💡 Open Source & Collaboration
-
-- 🔍 **Looking for**: Exciting open source projects to contribute to
-- 🚀 **Interested in**: Web development, developer tools, and education platforms
-- 🤝 **Available for**: Collaborations, mentoring, and interesting conversations
-- 📖 **Contributing to**: Documentation, bug fixes, and feature development
 
 ---
 
@@ -115,9 +119,9 @@ I'm always excited to connect with fellow developers, open source enthusiasts, a
 </div>
 
 <div align="center">
-  <h3>💙 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just chat about code!</h3>
+  <h3>💙 Thanks for visiting my profile! Let's build something amazing together 🚀</h3>
 </div>
 
 ---
-
 ⭐️ From [Saurav Jain](https://github.com/saurabhjain708)
+
