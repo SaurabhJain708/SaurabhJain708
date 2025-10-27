@@ -10,7 +10,7 @@ I'm a **self-driven Full-Stack Developer** with strong foundations in **React, N
 I enjoy building **scalable SaaS platforms**, contributing to **open source**, and experimenting with **DevOps automation** to deliver production-grade solutions.  
 
 - 🔭 Currently building **[StackVault](https://www.stackvault.dev)** – a full-stack SaaS portfolio builder with **multi-tenant architecture** and **dynamic subdomains**  
-- 🤝 Actively contributing to **[Formbricks](https://github.com/formbricks/formbricks)** – adding tests, fixing bugs, and shipping features  
+- 🤝 Actively contributing to **[Formbricks](https://github.com/formbricks/formbricks)** & **[Twenty](https://github.com/twentyhq/twenty)** – adding tests, fixing bugs,optimising builds and shipping features  
 - 🌱 Exploring **Kubernetes**, **security & automation (OpSec, Puppeteer, bot scaling)**  
 - 💬 Ask me about **React, Next.js, Node.js, Testing, or DevOps pipelines**  
 - 🎯 Looking for **remote internship opportunities** where I can apply problem-solving and system design skills  
