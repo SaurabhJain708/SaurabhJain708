@@ -44,7 +44,7 @@ Currently, I am a **Founding Engineer at Buildway.ai**, where I act as a solo le
 
 #### **Founding Engineer @ Buildway.ai** _(Oct 2025 - Present)_
 _Acting as solo lead on billing, AI infrastructure, and RAG optimization._
-- **RAG Optimization:** Improved citation accuracy by **90%** and RIS data retrieval by **70%** via complex vector DB logic and post-hoc processing.
+- **RAG Optimization:** Improved citation accuracy by **90%** and data retrieval by **70%** via complex vector DB logic and post-hoc processing.
 - **Zero-Downtime Migration:** Executed a critical live production migration from NextAuth to Better Auth with **0% downtime** and zero data loss.
 - **AI Infrastructure:** Engineered multi-agent systems with Dynamic Chain of Thought and Web Search tools using Model Context Protocol (MCP).
 - **Security:** Refactored tRPC infra for zip-bomb protection and implemented E2B sandboxing.
