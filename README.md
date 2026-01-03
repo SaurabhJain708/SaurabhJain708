@@ -75,10 +75,4 @@ I believe in high-velocity engineering and contributing back to the ecosystem.
 * **AI Integration:** Built an AI Assistant to automate user support and portfolio creation.
 * **DevOps:** Robust CI/CD pipelines via GitHub Actions for automated linting, testing, and builds.
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh.Jain708&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh.Jain708&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
 
