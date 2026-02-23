@@ -3,10 +3,22 @@
   <h3 align="center">Full-Stack AI Engineer | RAG & Infrastructure Architect</h3>
 
   <p align="center">
-    <b>Founding Engineer at Buildway.ai</b> • <b>Open Source Contributor</b> • <b>DevOps Enthusiast</b>
+    <b>Founding Engineer at Buildway.ai</b> • <b>Open Source Contributor</b> • <b>IIT Madras</b>
   </p>
   
+  <br/>
+  
   <p align="center">
+    <h2>🌐 <a href="https://www.sauravjain.dev">www.sauravjain.dev</a> 🌐</h2>
+    <p><b>✨ Visit my official portfolio website for my complete resume, detailed case studies, and latest work! ✨</b></p>
+  </p>
+  
+  <br/>
+
+  <p align="center">
+    <a href="https://www.sauravjain.dev">
+      <img src="https://img.shields.io/badge/Portfolio-sauravjain.dev-2563EB?style=flat&logo=globe&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="mailto:sauravjain.dev@gmail.com">
       <img src="https://img.shields.io/badge/Email-sauravjain.dev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -25,7 +37,9 @@
 
 I am a high-impact Full Stack Engineer specializing in bridging traditional backend systems (PostgreSQL, Redis) with cutting-edge AI tooling (MCP, Vercel AI SDK). 
 
-Currently, I am a **Founding Engineer at Buildway.ai**, where I act as a solo lead on high-stakes billing and analytics systems. I thrive in high-velocity environments, shipping zero-downtime migrations and optimizing RAG pipelines for production.
+Currently, I am a **Founding Engineer at Buildway.ai**, acting as a solo lead on high-stakes billing and analytics systems. I thrive in high-velocity environments, executing zero-downtime migrations, optimizing complex RAG pipelines for production, and building secure, scalable infrastructure. I am also pursuing a B.S. in Data Science at **IIT Madras**.
+
+👉 **For an in-depth look at my background and to download my resume, please visit [sauravjain.dev](https://www.sauravjain.dev).**
 
 ---
 
@@ -33,46 +47,53 @@ Currently, I am a **Founding Engineer at Buildway.ai**, where I act as a solo le
 
 | **Domain** | **Technologies** |
 |:-----------------|:-----------------|
-| **AI & RAG** | Vercel AI SDK, MCP, LangChain, Vector DBs, Puppeteer, RAG Optimization |
-| **Frontend** | Next.js 14+, React, TypeScript, Tailwind CSS, Shadcn UI, Recharts |
-| **Backend** | Node.js, tRPC, PostgreSQL (Neon), Redis, Better Auth, NextAuth, Zod |
-| **DevOps** | Docker, Kubernetes, AWS, GitHub Actions (CI/CD), E2B Sandboxing |
+| **AI & RAG** | Vercel AI SDK, MCP, LangChain, Vector DBs, Puppeteer, Florence-2, BGE-M3, Qwen 2.5 |
+| **Frontend** | Next.js 14/16, React, TypeScript, Tailwind CSS, Shadcn UI, Recharts |
+| **Backend** | Node.js, tRPC, PostgreSQL (Neon), Prisma, Supabase, Redis, Better Auth, NextAuth, Zod |
+| **DevOps & Infra** | Docker, Kubernetes, AWS, GitHub Actions (CI/CD), E2B Sandboxing, Modal (Serverless) |
 
 ---
 
-### 💼 Featured Work
+### 💼 Professional Experience
 
-#### **Founding Engineer @ Buildway.ai** _(Oct 2025 - Present)_
-_Acting as solo lead on billing, AI infrastructure, and RAG optimization._
-- **RAG Optimization:** Improved citation accuracy by **90%** and data retrieval by **70%** via complex vector DB logic and post-hoc processing.
-- **Zero-Downtime Migration:** Executed a critical live production migration from NextAuth to Better Auth with **0% downtime** and zero data loss.
-- **AI Infrastructure:** Engineered multi-agent systems with Dynamic Chain of Thought and Web Search tools using Model Context Protocol (MCP).
-- **Security:** Refactored tRPC infra for zip-bomb protection and implemented E2B sandboxing.
+#### **Founding Engineer (Contract) @ Buildway.ai** _(Oct 2025 - Present)_
+* **AI Infrastructure & RAG:** Engineered multi-agent systems with Dynamic Chain of Thought and Web Search using Model Context Protocol (MCP). Improved citation accuracy by **90%** and retrieval by **70%**.
+* **Zero-Downtime Migration:** Executed a critical live production migration from NextAuth to Better Auth with **0% downtime** and zero data loss.
+* **Solo Lead (Billing & AI):** Built complex billing infrastructure and shipped a full AI chat system with dynamic interactive charts in <2.5 weeks.
+* **Security Architecture:** Refactored tRPC infra for zip-bomb protection and E2B sandboxing; implemented 100% secure Redis-backed pagination for MCP.
+
+#### **Freelance Full-Stack Developer** _(Feb 2025 - May 2025)_
+* Delivered secure, Docker-containerized web applications using Next.js and MongoDB. Built reusable UI component libraries to reduce deployment friction.
+
+---
+
+### 🚀 Featured Products Built
+
+**[KRAG - Serverless RAG Agent](https://www.sauravjain.dev)** | _Jan 2026 - Present_
+* **Architecture:** World's first serverless RAG agent with microservice design (Next.js 16 API + Modal Python workers, Redis queues). Achieves **40% lower cost** than major parsers while preserving tables and formatting.
+* **Features:** Multi-format ingestion with 3 enterprise encryption levels, parent-child chunking, and context-aware chat with citations.
+* **AI Integration:** Florence-2 for image understanding; custom models on Modal including Marker PDF, BGE-M3, MXBAI Reranker, and Qwen 2.5 14B.
+
+**[Stack Vault - SaaS Portfolio Builder](https://www.stackvault.dev)** | _July 2025 - Nov 2025_
+* **Architecture:** Multi-tenant SaaS serving 50+ active users with custom domain support via Next.js Middleware.
+* **Features:** Integrated an AI Assistant to automate user support and portfolio creation workflows. Enforced end-to-end type safety using Zod.
+* **DevOps:** Built robust CI/CD pipelines via GitHub Actions for automated linting, testing, and regressions prevention.
 
 ---
 
 ### 🌟 Open Source Contributions
 
-I believe in high-velocity engineering and contributing back to the ecosystem.
-
 > **🏆 TwentyCRM (Top 4% Contributor)**
 > * Merged 8+ PRs in a single month working alongside core senior devs.
-> * Implemented complex frontend logic for the new calendar-based Kanban feature.
+> * Implemented complex frontend logic and interactions for the new calendar-based Kanban feature.
 
-> **🤖 GPT Engineer (Feature Sprint)**
-> * Integrated **Morph AI** into the codebase in a 16-hour sprint.
-> * Enabled "Cursor-style" in-place editing, replacing full-file rewrites with diff-based editing (60% accuracy boost).
-
-> **📝 Formbricks**
-> * Integrated Vitest for type-safe unit testing and resolved critical UI formatting bugs.
+> **📝 Formbricks Contributor**
+> * Integrated Vitest for type-safe unit testing and resolved critical UI formatting bugs affecting thousands of users.
 
 ---
 
-### 🏗️ Projects
+### 🎓 Education & Certifications
 
-**[Stack Vault](https://github.com/Saurabh.Jain708)** | _SaaS Portfolio Builder_
-* **Architecture:** Multi-tenant SaaS with custom domain support via Next.js Middleware.
-* **AI Integration:** Built an AI Assistant to automate user support and portfolio creation.
-* **DevOps:** Robust CI/CD pipelines via GitHub Actions for automated linting, testing, and builds.
-
+* **Docker Certification**, Docker, Inc. _(2025)_
+* **GitHub Actions Workshop: CI/CD Pipelines**, Microsoft Press _(2025)_
 
