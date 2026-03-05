@@ -56,7 +56,7 @@ Currently, I am a **Founding Engineer at Buildway.ai**, acting as a solo lead on
 
 ### 💼 Professional Experience
 
-#### **Founding Engineer (Contract) @ Buildway.ai** _(Oct 2025 - Present)_
+#### **Founding Engineer (Contract) @ Buildway.ai** _(Oct 2025 - March 2026)_
 * **AI Infrastructure & RAG:** Engineered multi-agent systems with Dynamic Chain of Thought and Web Search using Model Context Protocol (MCP). Improved citation accuracy by **90%** and retrieval by **70%**.
 * **Zero-Downtime Migration:** Executed a critical live production migration from NextAuth to Better Auth with **0% downtime** and zero data loss.
 * **Solo Lead (Billing & AI):** Built complex billing infrastructure and shipped a full AI chat system with dynamic interactive charts in <2.5 weeks.
